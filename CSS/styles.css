@@ -1,0 +1,23 @@
+body {
+  background-color: #F5F5F5;
+  font-family: Bradley Hand;
+}
+
+hr{
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: #364F6B;
+  background-color: transparent;
+  width: 2.5%;
+}
+
+h1 {
+  color: #FC5185;
+  font-family: Impact;
+}
+
+h3 {
+  color: #3FC1C9;
+  font-family: Impact;
+
+}
